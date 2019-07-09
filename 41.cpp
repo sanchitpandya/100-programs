@@ -25,7 +25,4 @@ int main()
     }
     else
         printf("Both strings can't be identical since lengths of both the strings are different");
-    
-    int x;
-    scanf("%d",&x);
 }
